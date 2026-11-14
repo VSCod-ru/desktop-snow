@@ -1,0 +1,29 @@
+Desktop Snow — Non-Commercial Share-Alike License
+Copyright (c) 2026 VSCod-ru
+​Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software, its source code ("snow.cpp"), and compiled binary files
+("snow", "snow.exe"), to use, copy, modify, merge, publish, and distribute
+copies of the Software and modified versions thereof, subject to the following
+conditions:
+​1. STRICTLY FREE DISTRIBUTION (NON-COMMERCIAL):
+The Software, its binaries, and any modified or derivative works MUST be
+distributed strictly FREE OF CHARGE. Selling, licensing for a fee,
+monetizing, placing behind a paywall, or using the Software or its
+derivatives for any commercial purpose is strictly prohibited.
+​2. SHARE-ALIKE:
+If you modify the source code or binary files and distribute the modified
+version, you must distribute it under this exact same license and keep
+this license notice intact.
+​3. ATTRIBUTION:
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software and binaries.
+​4. THIRD-PARTY LIBRARIES:
+This software statically links "raylib" (licensed under the zlib/libpng
+license, Copyright (c) Ramon Santamaria).
+​THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
